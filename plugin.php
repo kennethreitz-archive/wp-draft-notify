@@ -3,9 +3,9 @@
 Plugin Name: Draft Post Notifier
 Plugin URI: http://github.com/kennethreitz/draft-post-notifier-wordpress-plugin
 Description: What's the point of post moderation if you don't know about it? Exactly. So, this emails editors and admins.
-Author: Dagon Design
+Author: Kenneth Reitz
 Version: 0.9
-Author URI: http://www.dagondesign.com
+Author URI: http://www.kennethreitz.com
 
 Based on Draft Notification by Dagon Design ( http://www.dagondesign.com ).
 
